@@ -8,6 +8,7 @@ Deep learning project to classify skin cancer images into:
 ## Dataset
 Images organized into two folders:
 SkinCancer/
+
 ├── Benign/
 ├── Malignant/
 
