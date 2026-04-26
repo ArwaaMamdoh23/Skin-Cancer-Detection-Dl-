@@ -11,6 +11,9 @@ SkinCancer/
 ├── Benign/
 ├── Malignant/
 
+Dataset link:
+https://www.kaggle.com/datasets/arwaamamdoh203203/skincancer-classification/data
+
 ## Approaches
 Two models were used:
 - TensorFlow (EfficientNetB1 / MobileNetV2)
